@@ -47,6 +47,5 @@ me.say_hi()
 
 ---
 
-<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiongJiongJiong2&" alt="JiongJiongJiong2" /></p>
-</div>
+
