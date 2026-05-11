@@ -43,6 +43,14 @@ me.say_hi()
 
 ---
 
+Some Projects I am currently working on
+<p align="left">
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/login-all.gif?raw=true">
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/all-groups.gif?raw=true">
+</p>
+
+---
+
 ![snake gif](https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
