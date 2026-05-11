@@ -43,10 +43,10 @@ me.say_hi()
 
 ---
 
-Some Projects I am currently working on
+🌱 Some Projects I am currently working on!
 <p align="left">
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/login-all.gif?raw=true">
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/all-groups.gif?raw=true">
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/login-all.gif?raw=true" width="150" alt="login demo"/>
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/all-groups.gif?raw=true" width="150" alt="all demo"/>
 </p>
 
 ---
