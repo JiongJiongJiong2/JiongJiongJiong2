@@ -43,9 +43,10 @@ me.say_hi()
 
 ---
 
+![snake gif](https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+---
+
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiongJiongJiong2&" alt="JiongJiongJiong2" /></p>
 </div>
-
----
-![snake gif](https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
