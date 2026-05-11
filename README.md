@@ -17,7 +17,7 @@ I think the future is about inspirations and the courage to make your idea come 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/JiongJiongJiong2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JiongJiongJiong2" height="30" width="40" /></a> <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/JiongJiongJiong2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JiongJiongJiong2" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,12 +25,9 @@ I think the future is about inspirations and the courage to make your idea come 
 
 ---
 
-
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JiongJiongJiong2&" alt="JiongJiongJiong2" /></p>
 </div>
 
-
 ---
-
-![snake gif](https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
