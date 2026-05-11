@@ -6,13 +6,31 @@
 
 - 🌱 I'm currently learning **C++, RUST, GO, Celery Messages List in Redis, Communication between agents among processes**
 
-- 🤝 I'm looking for help with **UX design,  mobile 3D reconstructing developers**
+- 🤝 I'm looking for help with **UX designers,  mobile 3D reconstructing developers**
 
 - 📫 How to reach me **JiongleHe@outlook.com**
 
 - ⚡ Fun fact **I am currently a year-4 student majoring in Computer Science and Technology. 
 I think the future is about inspirations and the courage to make your idea come true. :)**
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Rocky Ho"
+        self.role = "👯 Passionate learner of AI agent engineering.
+                     🔭 Future master student in Hong Kong University of Science and Technology."
+        self.language_spoken = ["zh_CN", "en_US", "zh_Cantonese"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 ---
 
 <h3 align="left">Connect with me:</h3>
