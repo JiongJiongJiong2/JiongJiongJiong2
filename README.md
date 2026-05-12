@@ -48,6 +48,7 @@ me.say_hi()
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/login-all.gif?raw=true" width="150" alt="login-all demo"/>
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/all-groups.gif?raw=true" width="150" alt="all-groups demo"/>
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/group-detail.gif?raw=true" width="150" alt="group-detail demo"/>
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/detail-.gif?raw=true" width="150" alt="detail- demo"/>
 </p>
 
 ---
