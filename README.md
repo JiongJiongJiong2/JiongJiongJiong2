@@ -47,7 +47,7 @@ me.say_hi()
 <p align="left">
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/login-all.gif?raw=true" width="150" alt="login-all demo"/>
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/RL2.png?raw=true" width="150" alt="DQN demo"/>
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/RL.png?raw=true" width="150" alt="DQN demo"/>
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/ML.png?raw=true" width="150" alt="DQN demo"/>
 </p>
 
 ---
