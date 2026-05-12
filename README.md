@@ -46,9 +46,7 @@ me.say_hi()
 🌱 Some Projects I am currently working on! IF you are interesting in it, contact me!
 <p align="left">
     <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/login-all.gif?raw=true" width="150" alt="login-all demo"/>
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/all-groups1.gif?raw=true" width="150" alt="all-groups demo"/>
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/group-detail1.gif?raw=true" width="150" alt="group-detail demo"/>
-    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/detail-1.gif?raw=true" width="150" alt="detail- demo"/>
+    <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/main/RL.png?raw=true" width="150" alt="all-groups demo"/>
 </p>
 
 ---
