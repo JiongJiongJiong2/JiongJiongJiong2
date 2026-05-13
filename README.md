@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **JiongleHe@outlook.com**
 
-- ⚡ Fun fact **I am currently a year-4 student majoring in Computer Science and Technology. 
+- ⚡ **I am currently a year-4 student majoring in Computer Science and Technology. 
 I think the future is about inspirations and the courage to make your idea come true. :)**
 
 ```python
