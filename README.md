@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Some prototypes about new generation UX design, mobile 3D reconstructing, and research about 3D reconstructing (mesh splatting, faster 3DGS, 4DGS), and harness structure in AI agents.**
 
-- 🌱 I'm currently learning **Deep Reinforce Learning, C++, RUST, GO, Celery Messages List in Redis, Communication between agents among processes**
+- 🌱 I'm currently learning **Deep Reinforcement Learning, C++, RUST, GO, Celery Messages List in Redis, Communication between agents among processes**
 
 - 🤝 I'm looking for help with **UX designers,  mobile 3D reconstructing developers**
 
