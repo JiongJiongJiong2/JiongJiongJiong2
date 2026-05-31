@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rocky+Ho!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F7E924&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rocky+Ho!;" />
 </h1>
+
 
 ### A passionate developer and also a CS student.
 
