@@ -42,7 +42,7 @@ me.say_hi()
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=blender,c,cpp,dart,figma,flask,flutter,git,go,html,java,js,mongodb,mysql,nodejs,opencv,postgres,py,pytorch,rabbitmq,react,rust,spring,tensorflow,ts&perline=13" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=blender,c,cpp,dart,figma,flask,flutter,git,html,js,mysql,nodejs,opencv,postgres,py,pytorch,react,rust,tensorflow,ts&perline=13" /></p>
 
 ---
 
