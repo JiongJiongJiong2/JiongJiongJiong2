@@ -5,16 +5,17 @@
 
 ### A passionate developer and also a CS student.
 
-- 🔭 I'm currently working on **Some prototypes about new generation UX design, mobile 3D reconstructing, and research about 3D reconstructing (mesh splatting, faster 3DGS, 4DGS), and harness structure in AI agents.**
+- 🔭 I'm currently working on 3D Vision and Human-Object Interaction, with a focus on geometry-aware motion generation, contact reasoning, and physical constraints.
 
-- 🌱 I'm currently learning **Deep Reinforcement Learning, C++, RUST, GO, Celery Messages List in Redis, Communication between agents among processes**
+- 🌱 I'm currently exploring Embodied AI, World Models, Physical Reasoning, and Reinforcement Learning, while continuing to deepen my work in 3D reconstruction and representation.
 
-- 🤝 I'm looking for help with **UX designers,  mobile 3D reconstructing developers**
+- 🤝 I'm interested in research collaborations around 3D Vision, Human-Object Interaction, Embodied Intelligence, and related robotics problems.
 
 - 📫 How to reach me **JiongleHe@outlook.com**
 
-- ⚡ **I am currently a year-4 student majoring in Computer Science and Technology. 
+- ⚡ **I am currently a master student majoring in AI. 
 I think the future is about inspirations and the courage to make your idea come true. :)**
+My current path has grown from 3D reconstruction and representation toward understanding interaction, dynamics, and intelligent systems in the physical world.
 
 ```python
 #!/usr/bin/python
@@ -23,8 +24,8 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Rocky Ho"
-        self.role = "👯 Passionate learner of AI agent engineering.
-                     🔭 Future master student in Hong Kong University of Science and Technology."
+        self.role = "Passionate learner of AI agent engineering.
+                     master student in Hong Kong University of Science and Technology."
         self.language_spoken = ["zh_CN", "en_US", "zh_Cantonese"]
 
     def say_hi(self):
