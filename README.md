@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Rocky Ho 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F7E924&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rocky+Ho!;" />
+</h1>
 
 <p align="center">
   <b>MSc AI @ HKUST · 3D Vision · Human-Object Interaction · World Models · Physical AI</b>
@@ -32,4 +34,11 @@ My path has grown from **3D reconstruction and representation** toward understan
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,blender,git,linux,docker&perline=8" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github.com/JiongJiongJiong2/JiongJiongJiong2/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub contribution snake animation" />
 </p>
