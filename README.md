@@ -25,39 +25,28 @@ My path has grown from **3D reconstruction and representation** toward understan
 
 ### Selected Work
 
-- **[RMAvatar-MLP](https://github.com/JiongJiongJiong2/RMAVATAR-MLP)** — Final-year research project replacing grid-based canonical feature fields with an MLP + positional encoding representation.
-- **[Does Ctrl+C Work?](https://github.com/JiongJiongJiong2/Does-CrtlC-Work)** — A lightweight desktop tool that gives immediate visual feedback for copy and paste actions.
-- **[REINFORCE · A2C · PPO](https://github.com/JiongJiongJiong2/Reinforce-A2C-PPO_test)** — Implementations and experiments with classic policy-gradient reinforcement learning algorithms.
-- **[DQN vs. Double DQN](https://github.com/JiongJiongJiong2/DQN-vs-DDQN--A-RL-learning-project-)** — A compact learning project comparing value-based deep reinforcement learning methods.
+<img align="right" src="login-all.gif" width="180" alt="Product demo" />
+<img align="right" src="CV.png" width="135" alt="Computer vision project" />
 
-### Project Snapshots
+**[RMAvatar-MLP](https://github.com/JiongJiongJiong2/RMAVATAR-MLP)**  
+My undergraduate final-year research project, exploring an **MLP + positional encoding** representation as an alternative to grid-based canonical feature fields for dynamic 3D avatars.
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img src="login-all.gif" width="150" alt="Product demo"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="RL.png" width="150" alt="Reinforcement learning project"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="RL2.png" width="150" alt="DQN project"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="CV.png" width="150" alt="Computer vision project"/>
-    </td>
-    <td align="center" width="20%">
-      <img src="ML.png" width="150" alt="Machine learning project"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>Product / UI</b></sub></td>
-    <td align="center"><sub><b>Reinforcement Learning</b></sub></td>
-    <td align="center"><sub><b>DQN / DDQN</b></sub></td>
-    <td align="center"><sub><b>Computer Vision</b></sub></td>
-    <td align="center"><sub><b>Machine Learning</b></sub></td>
-  </tr>
-</table>
+**[Does Ctrl+C Work?](https://github.com/JiongJiongJiong2/Does-CrtlC-Work)**  
+A lightweight desktop utility built around a simple product idea: make copy-and-paste actions visible through immediate visual feedback near the cursor.
+
+<br clear="right"/>
+
+<img align="right" src="RL.png" width="135" alt="Reinforcement learning project" />
+<img align="right" src="RL2.png" width="135" alt="DQN project" />
+<img align="right" src="ML.png" width="135" alt="Machine learning project" />
+
+**[REINFORCE · A2C · PPO](https://github.com/JiongJiongJiong2/Reinforce-A2C-PPO_test)**  
+A hands-on policy-gradient learning project covering REINFORCE, A2C and PPO, with experiments focused on understanding how the methods differ in stability and variance reduction.
+
+**[DQN vs. Double DQN](https://github.com/JiongJiongJiong2/DQN-vs-DDQN--A-RL-learning-project-)**  
+A compact value-based reinforcement learning project comparing DQN and Double DQN through implementation and experiments.
+
+<br clear="right"/>
 
 ### Tools
 
