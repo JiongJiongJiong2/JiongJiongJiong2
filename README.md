@@ -25,28 +25,24 @@ My path has grown from **3D reconstruction and representation** toward understan
 
 ### Selected Work
 
-<img align="right" src="login-all.gif" width="180" alt="Product demo" />
-<img align="right" src="CV.png" width="135" alt="Computer vision project" />
+<img align="right" src="login-all.gif" width="285" alt="Project demo" />
 
-**[RMAvatar-MLP](https://github.com/JiongJiongJiong2/RMAVATAR-MLP)**  
-My undergraduate final-year research project, exploring an **MLP + positional encoding** representation as an alternative to grid-based canonical feature fields for dynamic 3D avatars.
+I like working across **research and building** — from 3D representation and physical interaction to reinforcement learning and small products that solve everyday problems.
 
-**[Does Ctrl+C Work?](https://github.com/JiongJiongJiong2/Does-CrtlC-Work)**  
-A lightweight desktop utility built around a simple product idea: make copy-and-paste actions visible through immediate visual feedback near the cursor.
+**Research** · [RMAvatar-MLP](https://github.com/JiongJiongJiong2/RMAVATAR-MLP) explores an MLP + positional encoding representation for dynamic 3D avatars.
 
-<br clear="right"/>
+**Reinforcement Learning** · [REINFORCE · A2C · PPO](https://github.com/JiongJiongJiong2/Reinforce-A2C-PPO_test) and [DQN vs. Double DQN](https://github.com/JiongJiongJiong2/DQN-vs-DDQN--A-RL-learning-project-) are hands-on implementations for understanding policy-gradient and value-based methods.
 
-<img align="right" src="RL.png" width="135" alt="Reinforcement learning project" />
-<img align="right" src="RL2.png" width="135" alt="DQN project" />
-<img align="right" src="ML.png" width="135" alt="Machine learning project" />
-
-**[REINFORCE · A2C · PPO](https://github.com/JiongJiongJiong2/Reinforce-A2C-PPO_test)**  
-A hands-on policy-gradient learning project covering REINFORCE, A2C and PPO, with experiments focused on understanding how the methods differ in stability and variance reduction.
-
-**[DQN vs. Double DQN](https://github.com/JiongJiongJiong2/DQN-vs-DDQN--A-RL-learning-project-)**  
-A compact value-based reinforcement learning project comparing DQN and Double DQN through implementation and experiments.
+**Product / Engineering** · [Does Ctrl+C Work?](https://github.com/JiongJiongJiong2/Does-CrtlC-Work) is a lightweight desktop utility that makes copy-and-paste actions immediately visible.
 
 <br clear="right"/>
+
+<p align="right">
+  <img src="CV.png" width="190" alt="Computer Vision project" />
+  <img src="RL2.png" width="160" alt="DQN project" />
+  <img src="RL.png" width="135" alt="Reinforcement Learning project" />
+  <img src="ML.png" width="110" alt="Machine Learning project" />
+</p>
 
 ### Tools
 
