@@ -33,7 +33,7 @@ My path has grown from **3D reconstruction and representation** toward understan
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,blender,git,linux,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,cpp,arduino,opencv,blender,git,linux,docker,figma,html,css,js,ts,react,nodejs,flask,mysql,postgres,flutter,dart&perline=12" />
 </p>
 
 
