@@ -30,6 +30,35 @@ My path has grown from **3D reconstruction and representation** toward understan
 - **[REINFORCE · A2C · PPO](https://github.com/JiongJiongJiong2/Reinforce-A2C-PPO_test)** — Implementations and experiments with classic policy-gradient reinforcement learning algorithms.
 - **[DQN vs. Double DQN](https://github.com/JiongJiongJiong2/DQN-vs-DDQN--A-RL-learning-project-)** — A compact learning project comparing value-based deep reinforcement learning methods.
 
+### Project Snapshots
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="login-all.gif" width="150" alt="Product demo"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="RL.png" width="150" alt="Reinforcement learning project"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="RL2.png" width="150" alt="DQN project"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="CV.png" width="150" alt="Computer vision project"/>
+    </td>
+    <td align="center" width="20%">
+      <img src="ML.png" width="150" alt="Machine learning project"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Product / UI</b></sub></td>
+    <td align="center"><sub><b>Reinforcement Learning</b></sub></td>
+    <td align="center"><sub><b>DQN / DDQN</b></sub></td>
+    <td align="center"><sub><b>Computer Vision</b></sub></td>
+    <td align="center"><sub><b>Machine Learning</b></sub></td>
+  </tr>
+</table>
+
 ### Tools
 
 <p>
