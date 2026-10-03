@@ -3,19 +3,23 @@
 </h1>
 
 
-### A passionate developer and also a CS student.
+### Exploring intelligence in the physical world — through research and building.
 
-- 🔭 I'm currently working on 3D Vision and Human-Object Interaction, with a focus on geometry-aware motion generation, contact reasoning, and physical constraints.
+- 🎓 I'm currently an **MSc student in Artificial Intelligence & Entrepreneurship at HKUST**, with a background in Computer Science.
 
-- 🌱 I'm currently exploring Embodied AI, World Models, Physical Reasoning, and Reinforcement Learning, while continuing to deepen my work in 3D reconstruction and representation.
+- 🔭 My current research focuses on **3D Vision and Human-Object Interaction**, especially geometry-aware motion, contact reasoning, and physically plausible interaction.
 
-- 🤝 I'm interested in research collaborations around 3D Vision, Human-Object Interaction, Embodied Intelligence, and related robotics problems.
+- 🌱 My research path has grown from **SfM/MVS, COLMAP, 3D reconstruction, and 3D Gaussian Splatting** toward **World Models, Physical / Embodied AI, Robotics, and Reinforcement Learning**.
 
-- 📫 How to reach me **JiongleHe@outlook.com**
+- 🤖 My interest in physical intelligence started with **VEX robotics and embedded control**, and continues through my work on perception, interaction, dynamics, and action.
 
-- ⚡ **I am currently a master student majoring in AI. 
-I think the future is about inspirations and the courage to make your idea come true. :)**
-My current path has grown from 3D reconstruction and representation toward understanding interaction, dynamics, and intelligent systems in the physical world.
+- 🛠️ Beyond research, I enjoy building real systems and products — from **AI agent monitoring and cloud-native tooling** to desktop utilities, 3D prototypes, and experimental product ideas.
+
+- 🤝 I'm open to collaborations around **3D Vision, HOI, World Models, Embodied AI, and Robotics**.
+
+- 📫 How to reach me: **JiongleHe@outlook.com**
+
+- ⚡ **I believe ideas matter when we have the courage to turn them into something real.**
 
 ```python
 #!/usr/bin/python
